@@ -1,3 +1,5 @@
 # Reference
-<a herf="https://arxiv.org/abs/1801.00054">Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward</a>
-</br>
+
+1.[[Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward]](https://arxiv.org/abs/2003.11778)
+2.[[Compare and Select: Video Summarization with Multi-Agent Reinforcement Learning]](https://arxiv.org/pdf/2007.14552.pdf)
+
